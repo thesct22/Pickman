@@ -1,3 +1,4 @@
+// code to be on the Uno with an HC-05 on the bot.
 #include<Servo.h>
 float jx,jy,ax,ay;
 int lw1=5;
