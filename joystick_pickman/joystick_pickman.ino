@@ -5,7 +5,7 @@ void setup() {
   {
    pinMode(i, INPUT);
   }
-  Serial.begin(9600);
+  Serial.begin(9600); //use an HC-05 bluetooth module on the Arduino Uno
 }
 
 void loop() {
